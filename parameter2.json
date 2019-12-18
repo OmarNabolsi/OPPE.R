@@ -1,0 +1,93 @@
+{
+	"cycleId": "1",
+	"subGroups": [
+			{
+				"subGroupId": 7,
+				"indicators": [15,19,48,5]
+			},
+			{
+				"subGroupId": 20,
+				"indicators": [5,20,21,15,19,22,144]
+			},
+			{
+				"subGroupId": 24,
+				"indicators": [19,22,144,21,15,5,20]
+			},
+			{
+				"subGroupId": 26,
+				"indicators": [20,22,144,15,21]
+			},
+			{
+				"subGroupId": 37,
+				"indicators": [15,5,19,48]
+			},
+			{
+				"subGroupId": 51,
+				"indicators": [20,5,144,15,21]
+			},
+			{
+				"subGroupId": 52,
+				"indicators": [15,21,20,5,144]
+			},
+			{
+				"subGroupId": 53,
+				"indicators": [15,21,144,5,20]
+			},
+			{
+				"subGroupId": 54,
+				"indicators": [20,15,21,144,5]
+			},
+			{
+				"subGroupId": 58,
+				"indicators": [20,5,22,144,184,157,15,21]
+			},
+			{
+				"subGroupId": 59,
+				"indicators": [22,144,5,20,157,15,21]
+			},
+			{
+				"subGroupId": 61,
+				"indicators": [21,22,144,199,20,197,5,15,198,157]
+			},
+			{
+				"subGroupId": 62,
+				"indicators": [21,15,198,22,144,199,184,197,5,157,20]
+			},
+			{
+				"subGroupId": 63,
+				"indicators": [184,15,21,157,20,5,22,144]
+			},
+			{
+				"subGroupId": 64,
+				"indicators": [20,5,22,144,15,21,157]
+			},
+			{
+				"subGroupId": 75,
+				"indicators": [5,48,15]
+			},
+			{
+				"subGroupId": 80,
+				"indicators": [15,5,19,48]
+			},
+			{
+				"subGroupId": 82,
+				"indicators": [19,48,5,15]
+			},
+			{
+				"subGroupId": 84,
+				"indicators": [15,19,48,5,156]
+			},
+			{
+				"subGroupId": 86,
+				"indicators": [5,19,48,15]
+			},
+			{
+				"subGroupId": 87,
+				"indicators": [5,19,48,15]
+			},
+			{
+				"subGroupId": 94,
+				"indicators": [5,76,75,74]
+			}
+		]
+}

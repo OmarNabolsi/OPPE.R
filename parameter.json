@@ -1,0 +1,161 @@
+{
+	"cycleId": "1",
+	"subGroups": [
+			{
+				"subGroupId": 7,
+				"indicators": [14]
+			},
+			{
+				"subGroupId": 14,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 15,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 16,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 17,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 18,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 19,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 20,
+				"indicators": [14,135]
+			},
+			{
+				"subGroupId": 21,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 22,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 23,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 24,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 26,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 27,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 28,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 37,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 45,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 51,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 52,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 53,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 54,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 56,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 57,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 58,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 59,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 61,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 62,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 63,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 64,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 75,
+				"indicators": [14]
+			},
+			{
+				"subGroupId": 77,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 78,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 79,
+				"indicators": [135]
+			},
+			{
+				"subGroupId": 80,
+				"indicators": [14]
+			},
+			{
+				"subGroupId": 82,
+				"indicators": [14]
+			},
+			{
+				"subGroupId": 84,
+				"indicators": [135,14]
+			},
+			{
+				"subGroupId": 86,
+				"indicators": [14]
+			},
+			{
+				"subGroupId": 87,
+				"indicators": [14]
+			},
+			{
+				"subGroupId": 95,
+				"indicators": [80,83,79,82,78,81]
+			}
+		] 
+}
